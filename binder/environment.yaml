@@ -1,0 +1,10 @@
+name: notebook
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - numpy
+  - matplotlib
+  - ipympl
+  - pip:
+      - awscli=1.18
