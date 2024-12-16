@@ -6,5 +6,4 @@ dependencies:
   - numpy
   - matplotlib
   - ipympl
-  - pip:
-      - awscli=1.18
+
